@@ -1,0 +1,6 @@
+#criando uma variavel e armazenando informacao tipo string 
+texto = "Eu amo o Marcelo"
+texto2 = "O Marcelo gosta de verde"
+
+print(type(texto))
+print(texto2)
